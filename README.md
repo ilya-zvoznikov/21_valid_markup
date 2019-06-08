@@ -1,6 +1,7 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+Here's the link to Real Estate Agency site:
+https://ilya-zvoznikov.github.io/21_valid_markup/
 
 # Project Goals
 
